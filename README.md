@@ -7,10 +7,4 @@ Requirements:
 
 Project start:
 
-1.
-
 ./helpers/vue-cli init webpack
-
-2.
-
-./helpers/npm install
